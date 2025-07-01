@@ -1,5 +1,5 @@
-# 🔓 DDoSAnom Project Overview
-### 웹 서버 강인성 및 보안 테스트를 위한 시뮬레이션 툴
+# DDoSAnom
+### 웹 서버 내구성 및 보안 테스트를 위한 시뮬레이션 툴
 
 **DDoSAnom** is a high-performance DDoS simulation tool designed to assess the robustness and security of web servers.  
 This program supports both **UDP Flood** and **TCP Flood** attack methods, enabling users to easily simulate a wide variety of real-world traffic load scenarios.
